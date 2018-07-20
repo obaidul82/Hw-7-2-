@@ -125,8 +125,8 @@
 	border-bottom: 1px solid black;
     background: transparent;
     position: absolute;
-    right: 25px;
-    top: 3px;
+    right: 37px;
+    top: 8px;
 }
 .gallary {
 }
@@ -190,6 +190,7 @@
 .button_content {
 	text-align: center;
 	padding: 70px;
+	padding-bottom: 400px;
 }
 button {
 	border: none;
@@ -205,4 +206,48 @@ button img{
 }
 button{
 	background-color: white;
+}
+.footer2{
+	background-color: #f0f0f0;
+}
+.wrapper{}
+.manu1{
+	overflow: hidden;
+	width: 30%;
+	float: left;
+	padding-top: 33px;
+    padding-bottom: 14px;
+}
+.manu1 ul{
+	list-style: none;
+}
+.manu1 ul li{
+	float: left;
+}
+.manu1 ul li a {
+	text-decoration: none;
+	color: black; 
+	padding-left: 18px;
+	font-size: 16px;
+}
+.manu2{
+	width: 30%;
+    float: right;
+    overflow: hidden;
+    padding-top: 33px;
+    padding-bottom: 14px;
+}
+.manu2 ul{
+	list-style: none;
+}
+.manu2 ul li{
+	float: left;
+}
+.manu2 ul li a {
+	text-decoration: none;
+	color: black;
+	padding-left: 32px;
+}
+.manu ul li a img{
+
 }
